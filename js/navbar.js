@@ -10,7 +10,7 @@ createNav.innerHTML = `
           <div class="collapse navbar-collapse" id="navbar">
             <ul class="navbar-nav" ></ul>
               <li class="nav-item" style="list-style-type: none;" >
-                <a class="nav-link active" style="color: #FFE3E3;" aria-current="page" href="https://github.com/sherryboxall/sherryboxall.github.io/blob/1bd9efd5c951101e6698539097286fbfa74cbace/index.html">Home</a>
+                <a class="nav-link active" style="color: #FFE3E3;" aria-current="page" href="index.html">Home</a>
               </li>
               <li class="nav-item" style="list-style-type: none;" >
                 <a class="nav-link" style="color: #FFE3E3;" href="about_me.html">About Me</a>
