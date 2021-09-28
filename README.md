@@ -1,38 +1,25 @@
-## Welcome to GitHub Pages
+<h1 align="center">Hi 👋, I'm Sherry</h1>
+<h3 align="center">A passionate Full Stack Development student from California</h3>
 
-You can use the [editor on GitHub](https://github.com/sherryboxall/sherryboxall.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- 🔭 I’m currently working on [My portfolio](https://sherryboxall.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🌱 I’m currently learning **Javascript, React, Express and Node.JS with MITxPro**
 
-### Markdown
+- 👨‍💻 All of my projects are available at [https://sherryboxall.github.io/](https://sherryboxall.github.io/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 💬 Ask me about **Blockchain Development**
 
-```markdown
-Syntax highlighted code block
+- 📫 How to reach me **sherrylboxall@gmail.com**
 
-# Header 1
-## Header 2
-### Header 3
-![profilepic](https://user-images.githubusercontent.com/87145748/125200528-74b85380-e220-11eb-8041-1fda80623899.jpg)
+- 📄 Know about my experiences [https://sherryboxall.github.io/about_me.html](https://sherryboxall.github.io/about_me.html)
 
-- Bulleted
-- List
+- ⚡ Fun fact **I love to do aerial silks/ circus in my free time!**
 
-1. Numbered
-2. List
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@sherry_boxall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sherry_boxall" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sherry-boxall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sherry-boxall" height="30" width="40" /></a>
+</p>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sherryboxall/sherryboxall.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
