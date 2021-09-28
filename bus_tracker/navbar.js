@@ -17,7 +17,7 @@ createNav.innerHTML = `
         <a class="nav-link" style="color: #FFE3E3;" href="../about_me.html">About Me</a>
       </li>
       <li class="nav-item" style="list-style-type: none;" >
-        <a class="nav-link" style="color: #FFE3E3;" href="../portfolio.html">Portfolio</a>
+        <a class="nav-link" style="color: #FFE3E3;" href="../portfolio.html">Projects</a>
       </li>
     </ul>
   </div>
